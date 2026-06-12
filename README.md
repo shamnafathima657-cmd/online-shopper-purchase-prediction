@@ -3,7 +3,7 @@ Machine Learning-based classification project that predicts online shopper purch
 
 #  Online Shopper Purchase Prediction using Machine Learning
 
-## 📌 Repository Description
+##  project  Description
 
 A Machine Learning classification project that predicts whether an online visitor will make a purchase based on browsing behavior and session characteristics. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model comparison, Random Forest classification, and Streamlit deployment for real-time purchase prediction.
 
