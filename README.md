@@ -55,7 +55,7 @@ The project helps organizations:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 Dataset: Online Shoppers Purchasing Intention Dataset
 
